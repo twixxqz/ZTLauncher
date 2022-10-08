@@ -4,6 +4,8 @@ from click import style
 from colorama import Fore, Back, Style
 
 os.system('sudo dnf install python3-pip')
+os.system('pip install colorama ')
+os.system('sudo pip install colorama')
 os.system('sudo dnf install figlet')
 os.system('clear')
 os.system('figlet Zombie Travel')
