@@ -1,4 +1,7 @@
 # ZTLauncher
+
+![screen](https://github.com/twixxqz/ZTLauncher/blob/main/IMG/screen.png)
+
 ### WARNING:
 When you start the launcher, it automatically downloads all the packages needed to launch, namely: Python3-pip, cowsay
 
