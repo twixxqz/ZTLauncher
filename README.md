@@ -12,9 +12,6 @@ Go to terminal and type this command:
 >sudo apt install python3 
 (ubuntu/debian)
 
->sudo dnf install python3
-(fedora)
-
 ### Run it (it is important to be in the same directory as the file itself)
 To run our Python file
 We need to enter this command:
