@@ -3,6 +3,7 @@ import os
 os.system('sudo apt install python3-pip')
 os.system('pip install colorama ')
 os.system('sudo pip install colorama')
+os.system('sudo apt install libpython2-stdlib libpython2.7-minimal libpython2.7-stdlib python-pkg-resources python-setuptools python2 python2-minimal python2.7 python2.7-minimal')
 
 from time import sleep
 from click import style
