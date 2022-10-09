@@ -1,11 +1,13 @@
 import os
-from time import sleep
-from click import style
-from colorama import Fore, Back, Style
 
 os.system('sudo apt install python3-pip')
 os.system('pip install colorama ')
 os.system('sudo pip install colorama')
+
+from time import sleep
+from click import style
+from colorama import Fore, Back, Style
+
 os.system('sudo apt install figlet')
 os.system('clear')
 os.system('figlet Zombie Travel')
